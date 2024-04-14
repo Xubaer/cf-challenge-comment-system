@@ -16,3 +16,6 @@
  `npm run preview`
 
  more info on [ckoudflare](https://developers.cloudflare.com/pages/framework-guides/nextjs/deploy-a-nextjs-site/)
+
+ ## AI Magic
+ `src/app/api/comment/route.ts` uses two ai models from cloudflare to moderate comments and get sentiment analysis
